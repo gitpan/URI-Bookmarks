@@ -1,0 +1,10 @@
+MANIFEST
+README
+INSTALL
+Makefile.PL
+Bookmarks.pm
+Bookmarks/Netscape.pm
+Bookmark.pm
+Bookmark/Netscape.pm
+t/all.t
+t/sample.bookmarks
